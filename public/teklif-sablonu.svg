@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 794 1123" width="794" height="1123">
+  <rect width="794" height="1123" fill="#f5f5f5"/>
+  <rect y="0" width="794" height="128" fill="#141414"/>
+  <text x="520" y="88" fill="#c9a227" font-family="Georgia,Times New Roman,serif" font-size="56" font-weight="600">TEKLİF</text>
+  <text x="40" y="78" fill="#e5e5e5" font-family="system-ui,sans-serif" font-size="13">BT CNC METAL — örnek şablon</text>
+  <rect x="28" y="156" width="344" height="268" fill="#fff" stroke="#2a2a2a" stroke-width="1.2" rx="2"/>
+  <rect x="422" y="156" width="344" height="288" fill="#fff" stroke="#2a2a2a" stroke-width="1.2" rx="2"/>
+  <rect x="28" y="156" width="344" height="36" fill="#1a1a1a"/>
+  <rect x="422" y="156" width="344" height="36" fill="#1a1a1a"/>
+  <text x="40" y="180" fill="#fff" font-family="system-ui,sans-serif" font-size="13" font-weight="600">MÜŞTERİ BİLGİLERİ</text>
+  <text x="434" y="180" fill="#fff" font-family="system-ui,sans-serif" font-size="13" font-weight="600">TEKLİF BİLGİLERİ</text>
+  <text x="44" y="216" fill="#333" font-family="system-ui,sans-serif" font-size="11">Firma Adı :</text>
+  <text x="44" y="244" fill="#333" font-family="system-ui,sans-serif" font-size="11">Yetkili Kişi :</text>
+  <text x="44" y="272" fill="#333" font-family="system-ui,sans-serif" font-size="11">Adres :</text>
+  <text x="44" y="352" fill="#333" font-family="system-ui,sans-serif" font-size="11">Telefon :</text>
+  <text x="44" y="382" fill="#333" font-family="system-ui,sans-serif" font-size="11">E-Posta :</text>
+  <text x="434" y="216" fill="#333" font-family="system-ui,sans-serif" font-size="11">Teklif No :</text>
+  <text x="434" y="244" fill="#333" font-family="system-ui,sans-serif" font-size="11">Teklif Tarihi :</text>
+  <text x="434" y="272" fill="#333" font-family="system-ui,sans-serif" font-size="11">Geçerlilik Tarihi :</text>
+  <text x="434" y="300" fill="#333" font-family="system-ui,sans-serif" font-size="11">Teslim Süresi :</text>
+  <text x="434" y="328" fill="#333" font-family="system-ui,sans-serif" font-size="11">Ödeme Koşulları :</text>
+  <text x="434" y="356" fill="#333" font-family="system-ui,sans-serif" font-size="11">Para Birimi :</text>
+  <line x1="28" y1="460" x2="766" y2="460" stroke="#ddd"/>
+  <text x="36" y="500" fill="#999" font-family="system-ui,sans-serif" font-size="10">Aşağıdaki alanlar düzenlenebilir — şablonu kendi PDF/görselinizle değiştirmek için public/teklif-sablonu.svg dosyasını güncelleyin.</text>
+</svg>
